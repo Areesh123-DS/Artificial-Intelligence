@@ -34,6 +34,8 @@ Navigate to the project directory and run the scripts:
 python knapsack_roulette.py
 python Tic Tac Toe.py
 ```
-##🌟 **Feedback **
-Have thoughts or suggestions? We'd love to hear them!
-🚀 Let’s explore AI together!
+## 🌟 **Feedback**  
+
+Have thoughts or suggestions? We'd love to hear them!  
+
+🚀 **Let’s explore AI together!**
