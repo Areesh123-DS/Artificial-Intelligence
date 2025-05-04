@@ -1,8 +1,8 @@
-🤖 Artificial Intelligence Repository
+#🤖 Artificial Intelligence Repository
 Welcome to the Artificial Intelligence repository! This project explores AI-driven problem-solving techniques, including Genetic Algorithms for optimization and Alpha-Beta Pruning for game strategy. Each implementation is designed to demonstrate key AI concepts in action.
-🚀 Project Overview
+#🚀 Project Overview
 This repository includes AI-powered solutions to complex problems:
-1️⃣ Knapsack Problem – Genetic Algorithm (Roulette Wheel Selection)
+##1️⃣ Knapsack Problem – Genetic Algorithm (Roulette Wheel Selection)
 - Filename: knapsack_roulette.py
 - Concept: Implements a Genetic Algorithm with Roulette Wheel Selection to optimize the 0/1 Knapsack Problem.
 - How it Works:
@@ -11,7 +11,7 @@ This repository includes AI-powered solutions to complex problems:
 - Roulette Wheel Selection ensures probabilistic choice of fitter solutions.
 - Additional File: test.txt – Contains sample knapsack items for testing the algorithm.
 
-2️⃣ Tic-Tac-Toe – Alpha-Beta Pruning (Unbeatable AI)
+##2️⃣ Tic-Tac-Toe – Alpha-Beta Pruning (Unbeatable AI)
 - Filename: Tic Tac Toe.py
 - Concept: Implements Alpha-Beta Pruning, making AI invincible in Tic-Tac-Toe.
 - How it Works:
@@ -19,14 +19,14 @@ This repository includes AI-powered solutions to complex problems:
 - Always plays the best move, making AI impossible to defeat.
 - Efficient pruning reduces computational complexity, making the game run faster.
 - 
-📌 Installation & Usage
+##📌 Installation & Usage
 Clone the repository:
 git clone https://github.com/YOUR-USERNAME/Artificial-Intelligence.git
 Navigate to the project directory and run the scripts:
 python knapsack_roulette.py
 python Tic Tac Toe.py
 
-🌟 Feedback
+##🌟 Feedback
 Have thoughts or suggestions? We'd love to hear them!
 🚀 Let’s explore AI together
 
