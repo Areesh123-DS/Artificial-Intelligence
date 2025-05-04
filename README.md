@@ -27,9 +27,13 @@ This repository includes AI-powered solutions to complex problems:
 Clone the repository:  
 ```bash
 git clone https://github.com/YOUR-USERNAME/Artificial-Intelligence.git
+```
 
-Navigate to the project directory and run the scripts:python knapsack_roulette.py
+Navigate to the project directory and run the scripts:
+```bash
+python knapsack_roulette.py
 python Tic Tac Toe.py
+```
 ##🌟 **Feedback **
 Have thoughts or suggestions? We'd love to hear them!
 🚀 Let’s explore AI together!
